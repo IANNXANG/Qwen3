@@ -138,7 +138,6 @@ def interactive_test():
         choice = input("\n请输入选择 (1-4): ").strip()
         
         if choice == "4":
-            print("\n感谢使用，再见！")
             break
         
         if choice not in ["1", "2", "3"]:
