@@ -1,5 +1,4 @@
 import openai
-from typing import List, Dict, Any
 
 # 配置客户端
 client = openai.OpenAI(
